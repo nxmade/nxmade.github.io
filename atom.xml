@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nxmade.github.io</id>
+    <title>NXMADE</title>
+    <updated>2024-07-01T19:00:23.727Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://nxmade.github.io"/>
+    <link rel="self" href="https://nxmade.github.io/atom.xml"/>
+    <subtitle>移动端支持双指放大</subtitle>
+    <logo>https://nxmade.github.io/images/avatar.png</logo>
+    <icon>https://nxmade.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, NXMADE</rights>
+    <entry>
+        <title type="html"><![CDATA[最新联系方式]]></title>
+        <id>https://nxmade.github.io/post/NawMIUyZK/</id>
+        <link href="https://nxmade.github.io/post/NawMIUyZK/">
+        </link>
+        <updated>2024-07-01T15:00:27.000Z</updated>
+    </entry>
+</feed>
